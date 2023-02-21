@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://clin34.github.io/csb-18p42s/static/css/main.b490b439.chunk.css",
+    "main.js": "https://clin34.github.io/csb-18p42s/static/js/main.7ad6b4be.chunk.js",
+    "main.js.map": "https://clin34.github.io/csb-18p42s/static/js/main.7ad6b4be.chunk.js.map",
+    "runtime-main.js": "https://clin34.github.io/csb-18p42s/static/js/runtime-main.542115de.js",
+    "runtime-main.js.map": "https://clin34.github.io/csb-18p42s/static/js/runtime-main.542115de.js.map",
+    "static/js/2.46075515.chunk.js": "https://clin34.github.io/csb-18p42s/static/js/2.46075515.chunk.js",
+    "static/js/2.46075515.chunk.js.map": "https://clin34.github.io/csb-18p42s/static/js/2.46075515.chunk.js.map",
+    "index.html": "https://clin34.github.io/csb-18p42s/index.html",
+    "static/css/main.b490b439.chunk.css.map": "https://clin34.github.io/csb-18p42s/static/css/main.b490b439.chunk.css.map",
+    "static/js/2.46075515.chunk.js.LICENSE.txt": "https://clin34.github.io/csb-18p42s/static/js/2.46075515.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.542115de.js",
+    "static/js/2.46075515.chunk.js",
+    "static/css/main.b490b439.chunk.css",
+    "static/js/main.7ad6b4be.chunk.js"
+  ]
+}
